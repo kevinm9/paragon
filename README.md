@@ -1,4 +1,4 @@
-# Laravel + Vue Starter Kit
+# Laravel + Inertia + Vue Starter Kit
 <img width="4104" height="2232" alt="fondoooo" src="https://github.com/user-attachments/assets/7adeff45-9d10-4327-a408-093c6eb23b6a" />
 
 # Maquetado Frontend: Sistema Integral de Gestión de Cobranza y Procesos Judiciales
